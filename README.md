@@ -1,0 +1,4 @@
+Implementação de uma aplicação em Java para gerar frases aleatorias de filmes e series, que serão consumidas por uma aplicação front-end. 
+Para essa aplicação foi criado uma API REST, foi criado as classes Controller, Service e Repository para implementar as requisições e busca no banco de dados, e a classe Model chamada de frase com os atributos, por último e não menos importante a classe serieDTO que é a responsável por representar os dados devolvidos pela aplicação front-end.
+Aplicação criada através do site do spring initializr, onde foram adicionadas as dependências Sping Web, Spring Data JPA, PostgreSQL e DevTools. Banco de dados criado pelo pgAdmin. 
+O objetivo do projeto é consolidar seus conhecimentos adquiridos ao longo da formação, no que tange a Spring, Streams, JPA, aplicação Web.
